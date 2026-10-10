@@ -1,0 +1,3 @@
+I am learning Python.
+Today I learned about files.
+Appending adds new information.

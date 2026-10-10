@@ -1,0 +1,26 @@
+name: Lesson feedback
+description: Tell us how a lesson could teach more clearly.
+title: "[Lesson feedback]: "
+labels: ["learning-content"]
+body:
+  - type: input
+    id: lesson
+    attributes:
+      label: Lesson or file
+      placeholder: lessons/00-zero-to-coder/01-make-python-speak.md
+    validations:
+      required: true
+  - type: textarea
+    id: confusing
+    attributes:
+      label: What felt confusing or frustrating?
+      description: A specific moment helps us improve the lesson.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would have helped?
+      description: Suggest an explanation, example, or practice that would make this clearer.
+    validations:
+      required: false

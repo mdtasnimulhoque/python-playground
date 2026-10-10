@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Python",
+        "topic": "File handling",
+        "minutes": 45
+    },
+    {
+        "subject": "Physics",
+        "topic": "Laws of Motion",
+        "minutes": 60
+    },
+    {
+        "subject": "Mathematics",
+        "topic": "Functions",
+        "minutes": 30
+    }
+]

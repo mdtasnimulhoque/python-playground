@@ -1,0 +1,8 @@
+[project]
+name = "python-playground-course"
+version = "0.1.0"
+description = "A friendly, open-source Python learning experience"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
